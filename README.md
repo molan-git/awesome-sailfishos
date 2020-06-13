@@ -26,6 +26,9 @@ Sailfish OS is a mobile operating system based on open source and developed by t
   * [In Turkish](#in-turkish)
   * [In Chinese](#in-chinese)
   * [In Russian](#in-russian)
+* [Social Media](#social-media)
+  * [In English](#in-english)
+  * [In Italian](#in-italian)
 * [Academic](#academic)
 * [Related](#related)
 * [License](#license)
@@ -134,6 +137,18 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 * [Sailfish OS Telegram chat](https://t.me/sailfishos)
 * [Sailfish OS Pub Telegram chat](https://t.me/sailfishos_pub)
+
+## Social Media
+
+### In English
+* [Sailfish OS News Network Channel on Telegram](https://telegram.me/s/sailfishosnews)
+* [Sailfish OS News Network on Twitter](https://twitter.com/SailfishOSNews)
+* [Sailfish OS News Network on Mastodon](https://mastodon.social/@sailfishosnews)
+* [Sailfish OS News Network on Facebook](https://www.facebook.com/SailfishOSNews/)
+
+### In Italian
+* [Jolla Community Italia on Twitter](https://twitter.com/JollaIt)
+* [Jolla Community Italia on Mastodon](https://mastodon.uno/@jollait)
 
 ## Academic
 * [Asterism: Decentralized File Sharing Application for Mobile Devices](https://www.researchgate.net/publication/330758943_Asterism_Decentralized_File_Sharing_Application_for_Mobile_Devices)
