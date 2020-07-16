@@ -52,7 +52,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 * [Storeman](https://github.com/mentaljam/harbour-storeman) - Unofficial native
   OpenRepos.net client for Sailfish OS
-* [Sailfish Apps](https://github.com/sailfishapps) - Unofficial Sailfish OS third party open source apps collection
+* [Sailfish Apps on Github](https://github.com/sailfishapps) - Unofficial Sailfish OS third party open source apps collection
 
 ## Deploy
 * [therecipe/qt](https://github.com/therecipe/qt) - QML Cross-platform Apps with docker
