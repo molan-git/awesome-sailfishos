@@ -40,8 +40,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 * [Sailfish Wiki](https://sailfishos.org/about/) - Wiki about Sailfish OS
 * [Sailfish OS Community](https://sailfishos.org/community/) - About Sailfish OS
   community
-* [together.jolla.com](https://together.jolla.com/questions/) - The place to ask
-  questions
+* [Sailfish OS Forum](https://forum.sailfishos.org/) - The official Sailfish OS community discussion forum
 * [Sailfish OSS](https://wiki.merproject.org/wiki/SailfishOSS) - List of the
   different components of Sailfish OS and whether they are OSS
 * [Developer Documentation](https://sailfishos.org/wiki/SailfishOS) -
@@ -74,11 +73,9 @@ Sailfish OS is a mobile operating system based on open source and developed by t
   * [Matrix](https://riot.im/app/#/room/#jfc:matrix.org)
   * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#jollafanclub)
 * Mer-meeting
-
   * [Telegram READ-ONLY](https://t.me/joinchat/AWx9iQKLefzSQFXQqq_hyw)
   * [Matrix](https://riot.im/app/#/room/#freenode_#mer-meeting)
   * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#Mer-meeting)
-
 * #sailfishos-porters
   * [Telegram](https://t.me/sailfishos_porters)
   * [Matrix](https://riot.im/app/#/room/#freenode_#sailfishos-porters:matrix.org)
