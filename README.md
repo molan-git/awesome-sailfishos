@@ -15,7 +15,7 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 * [Sailfish OS](#sailfish-os)
-* [Applications](#applications)
+* [Applications Stores / Collections](#applications)
 * [Tips and Tricks](#tips-and-tricks)
 * [Instant Messaging](#instant-messaging)
   * [In English](#in-english)
@@ -49,14 +49,10 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 * [SailfishOS Ports List](https://wiki.merproject.org/wiki/Adaptations/libhybris) -
   List of unofficial SailfishOS ports
 
-## Applications
+## Application Stores / Collection
 
 * [Storeman](https://github.com/mentaljam/harbour-storeman) - Unofficial native
   OpenRepos.net client for Sailfish OS
-* [OwnKeepass](https://github.com/jobe-m/ownkeepass) - Password safe
-  application for Sailfish OS built on top of KeepassX
-* [Working Hours Tracker](https://wht.olpe.fi/) - Easy to use and simple
-  Working Hours Tracker for SailfishOS
 * [Sailfish Apps](https://github.com/sailfishapps) - Unofficial Sailfish OS third party open source apps collection
 
 ## Deploy
