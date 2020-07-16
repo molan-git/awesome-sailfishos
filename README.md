@@ -68,14 +68,14 @@ Sailfish OS is a mobile operating system based on open source and developed by t
 
 ### In English
 
-* SailfishOS Fan Club
+* Sailfish OS Fan Club
   * [Telegram](https://t.me/joinchat/AWx9iUE-U9pZ_NeJlxXs0w)
   * [Matrix](https://riot.im/app/#/room/#jfc:matrix.org)
   * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#jollafanclub)
-* Mer-meeting
+* Sailfish OS-meeting
   * [Telegram READ-ONLY](https://t.me/joinchat/AWx9iQKLefzSQFXQqq_hyw)
   * [Matrix](https://riot.im/app/#/room/#freenode_#mer-meeting)
-  * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#Mer-meeting)
+  * [IRC](https://webchat.freenode.net/?channels=#sailfishos-meeting)
 * #sailfishos-porters
   * [Telegram](https://t.me/sailfishos_porters)
   * [Matrix](https://riot.im/app/#/room/#freenode_#sailfishos-porters:matrix.org)
@@ -84,8 +84,6 @@ Sailfish OS is a mobile operating system based on open source and developed by t
   * [Telegram](https://t.me/NemoMobile)
   * [Matrix](https://riot.im/app/#/room/#freenode_#nemomobile:matrix.org)
   * [IRC](https://kiwiirc.com/client/irc.freenode.net:+6697/#NemoMobile)
-* SfOS QML App dev
-  * [Telegram](https://t.me/joinchat/Az9rWwlOc_JbRyYH7hxG7Q)
 
 ### In German
 
