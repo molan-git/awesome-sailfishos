@@ -114,7 +114,6 @@ community. This list is a heavily modified fork of the following original list:
 
 ### In Italian
 
-* [Jolla Community Italia](https://jollacommunity.it) - Website with Sailfish OS related news, guides, forum and other resources
 * [Jolla Community Italia Channel](https://t.me/jollait) - Telegram channel with news from the Italian community (read-only)
 * [Jolla Community Italia Club](https://t.me/jollaitclub) - Telegram group chat 
 
