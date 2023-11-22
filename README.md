@@ -2,9 +2,10 @@
 
 [<img src="sfos_fans.jpg" align="right" width="120">](https://sailfishos.org/community/)
 
-A curated list of awesome Sailfish OS resources.
-
-Sailfish OS is a mobile operating system based on open source and developed by the Finnish mobile company Jolla Ltd. and the Sailfish OS community.
+A curated list of awesome Sailfish OS resources. Sailfish OS is a mobile operating system based on open source and 
+developed by the Finnish mobile company [Jolla Ltd.](https://jolla.com/) and the [Sailfish OS](https://sailfishos.org/) 
+community. This list is a heavily modified fork of the following original list: 
+[Awesome Sailfish OS](https://github.com/sailfishos-community/awesome-sailfishos). Any support to keep the list up to date is very welcome.
 
 ## Contents
 
