@@ -97,6 +97,8 @@ community. This list is a heavily modified fork of the following original list:
   * [Telegram](https://t.me/NemoMobile)
   * [IRC bridge](https://kiwiirc.com/client/irc.freenode.net:+6697/#NemoMobile)
   * [Matrix bridge](https://riot.im/app/#/room/#freenode_#nemomobile:matrix.org)
+* Sailfish OS Updates (Automatically lists update announcements)
+  * [Telegram](https://t.me/sailversion)
 
 ### In German
 
