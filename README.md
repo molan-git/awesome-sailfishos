@@ -106,7 +106,7 @@ community. This list is a heavily modified fork of the following original list:
 
 ### In German
 
-* [Sailfish OS Community](https://t.me/joinchat/CCMYXQnxqdpVWVooiTdWTQ) - Telegram group chat
+* [Sailfish OS Community](https://t.me/joinchat/T2gBDKVHFd0Kr9hx) - Telegram group chat
 
 ### In French
 
@@ -118,8 +118,7 @@ community. This list is a heavily modified fork of the following original list:
 
 ### In Italian
 
-* [Jolla Community Italia Channel](https://t.me/jollait) - Telegram channel with news from the Italian community (read-only)
-* [Jolla Community Italia Club](https://t.me/jollaitclub) - Telegram group chat 
+* [Jolla Community Italia Club](https://t.me/+QeDJk0w5oR7RzT-Y) - Telegram group chat 
 
 ### In Turkish
 
