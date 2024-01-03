@@ -50,10 +50,11 @@ community. This list is a heavily modified fork of the following original list:
 * [Jolla on Twitter](http://twitter.com/jollahq) - official Twitter account
 
 ## Software Sources / App Stores
-* [OpenRepos](https://openrepos.net/) - Original community software website
-* [Storeman, an OpenRepos client app](https://github.com/storeman-developers/harbour-storeman#readme) - Sailfish&nbsp;OS client app for OpenRepos
-* [SailfishOS:Chum community repository](https://github.com/sailfishos-chum/main#readme) - New community software repository
-* [SailfishOS:Chum GUI app](https://github.com/sailfishos-chum/sailfishos-chum-gui#sailfishoschum-gui-application) - Sailfish&nbsp;OS client app for the SailfishOS:Chum community repository 
+* [OpenRepos](https://openrepos.net/) - Community software website
+* [Storeman, an OpenRepos client app](https://github.com/storeman-developers/harbour-storeman#readme) - Sailfish OS client app for OpenRepos community software website
+* [SailfishOS:chum Web](https://sailfishos-chum.github.io/) - Community software website
+* [SailfishOS:Chum community repository](https://github.com/sailfishos-chum/main#readme) - Community software repository
+* [SailfishOS:Chum GUI app](https://github.com/sailfishos-chum/sailfishos-chum-gui#sailfishoschum-gui-application) - Sailfish OS client app for the SailfishOS:Chum community repository 
 
 ## Useful Communications Apps
 * [Communi](https://openrepos.net/content/thaodan/communi) - IRC client
@@ -131,7 +132,7 @@ community. This list is a heavily modified fork of the following original list:
 
 ### In Russian
 
-* [Aurora OS | Sailfish OS](https://t.me/mobilelinux)) - Telegram group chat for the Russian [Aurora OS](https://auroraos.ru/) and Sailfish OS
+* [Aurora OS | Sailfish OS](https://t.me/mobilelinux) - Telegram group chat for the Russian [Aurora OS](https://auroraos.ru/) and Sailfish OS
 
 ### In Arabian
 
