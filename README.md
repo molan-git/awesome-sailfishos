@@ -7,6 +7,9 @@ developed by the Finnish mobile company [Jolla Ltd.](https://jolla.com/) and the
 community. This list is a heavily modified fork of the following original list: 
 [Awesome Sailfish OS](https://github.com/sailfishos-community/awesome-sailfishos). Any support to keep the list up to date is very welcome.
 
+> [!IMPORTANT]
+> Use the links to websites and chat groups below at your own risk.
+
 ## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -61,7 +64,7 @@ community. This list is a heavily modified fork of the following original list:
 * [Sailtrix](https://openrepos.net/content/hengyedev/sailtrix) - Matrix client
 * [Fernschreiber](https://openrepos.net/content/werkwolf/fernschreiber) - Telegram client
 * [Tooter β](https://openrepos.net/content/molan/tooter-v) - Mastodon client
-* [Piepmatz](https://openrepos.net/content/werkwolf/piepmatz) - Twitter client
+* [Piepmatz](https://openrepos.net/content/werkwolf/piepmatz) - Twitter client 
 
 ## Tips and Tricks
 
