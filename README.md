@@ -131,7 +131,7 @@ community. This list is a heavily modified fork of the following original list:
 
 ### In Russian
 
-* [Sailfish OS / Aurora OS chat](https://t.me/sailfishos) - Telegram group chat
+* [Aurora OS | Sailfish OS](https://t.me/mobilelinux)) - Telegram group chat for the Russian [Aurora OS](https://auroraos.ru/) and Sailfish OS
 
 ### In Arabian
 
