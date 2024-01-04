@@ -64,7 +64,7 @@ community. This list is a heavily modified fork of the following original list:
 * [Sailtrix](https://openrepos.net/content/hengyedev/sailtrix) - Matrix client
 * [Fernschreiber](https://openrepos.net/content/werkwolf/fernschreiber) - Telegram client
 * [Tooter β](https://openrepos.net/content/molan/tooter-v) - Mastodon client
-* [Piepmatz](https://openrepos.net/content/werkwolf/piepmatz) - Twitter client 
+* [Piepmatz](https://openrepos.net/content/werkwolf/piepmatz) - Twitter/X client (not work anymore without own API credentials)
 
 ## Tips and Tricks
 
