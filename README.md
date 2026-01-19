@@ -42,14 +42,14 @@ community. This list is a heavily modified fork of the following original list:
 * [Sailfish OS Release Notes](https://forum.sailfishos.org/tag/release-notes) - Sailfish OS and SDK release notes
 * [Sailfish OS Documentation](https://docs.sailfishos.org/) - Documentation for Sailfish OS and app developers and translations
 * [Sailfish OS Community](https://sailfishos.org/community/) - About the Sailfish OS community
-* [Sailfish OSS](https://wiki.merproject.org/wiki/SailfishOSS) - List of the different components of Sailfish OS and whether they are OSS
 * [Community Hardware Adaptations](https://forum.sailfishos.org/t/community-hardware-adaptations/14081) - List of unofficial Sailfish OS ports
 
 ## Jolla
-* [Jolla Website](https://jolla.com/) - official Jolla website
-* [Jolla Shop](https://shop.jolla.com/) - download and/or buy official Sailfish OS devices and ports
-* [Jolla on Facebook](http://www.facebook.com/jollaofficial) - official Facebook account
-* [Jolla on Twitter](http://twitter.com/jollahq) - official Twitter account
+* [Jolla Website](https://jolla.com/) - Official Jolla website
+* [Jolla Shop](https://shop.jolla.com/) - Download and/or buy official Sailfish OS devices and ports
+* [Jolla on Mastodon/TechHub](https://techhub.social/@jolla) - Official Mastodon account
+* [Jolla on Facebook](https://www.facebook.com/jollaofficial) - Official Facebook account
+* [Jolla on X](https://x.com/jollahq) - Official X account
 
 ## Software Sources / App Stores
 * [OpenRepos](https://openrepos.net/) - Community software website
