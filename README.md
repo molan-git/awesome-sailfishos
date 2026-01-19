@@ -31,7 +31,6 @@ community. This list is a heavily modified fork of the following original list:
   - [In Chinese](#in-chinese)
   - [In Russian](#in-russian)
   - [In Arabian](#in-arabian)
-- [Academic](#academic)
 - [Related](#related)
 - [License](#license)
 
@@ -48,7 +47,7 @@ community. This list is a heavily modified fork of the following original list:
 
 ## Jolla
 * [Jolla Website](https://jolla.com/) - official Jolla website
-* [Jolla Shop](https://shop.jolla.com/) - download and/or buy official Sailfish OS ports
+* [Jolla Shop](https://shop.jolla.com/) - download and/or buy official Sailfish OS devices and ports
 * [Jolla on Facebook](http://www.facebook.com/jollaofficial) - official Facebook account
 * [Jolla on Twitter](http://twitter.com/jollahq) - official Twitter account
 
@@ -64,7 +63,6 @@ community. This list is a heavily modified fork of the following original list:
 * [Sailtrix](https://openrepos.net/content/hengyedev/sailtrix) - Matrix client
 * [Fernschreiber](https://openrepos.net/content/werkwolf/fernschreiber) - Telegram client
 * [Tooter β](https://openrepos.net/content/molan/tooter-v) - Mastodon client
-* [Piepmatz](https://openrepos.net/content/werkwolf/piepmatz) - Twitter/X client (not work anymore without own API credentials)
 
 ## Tips and Tricks
 
@@ -141,11 +139,6 @@ community. This list is a heavily modified fork of the following original list:
 * Sailfish OS Arabic Community
   * [Telegram](https://t.me/SFOS_AR)
   * [Matrix bridge](https://matrix.to/#/#SFOS_AR:matrix.org) 
-
-## Academic
-* [Asterism: Decentralized File Sharing Application for Mobile Devices](https://www.researchgate.net/publication/330758943_Asterism_Decentralized_File_Sharing_Application_for_Mobile_Devices)
-* [Method and Tools for Automated End-to-end Testing of Applications for Sailfish OS](https://dl.acm.org/citation.cfm?id=3180065)
-* [Cross-platform development for Sailfish OS and Android: Architectural patterns and “dictionary trainer” application case study](https://ieeexplore.ieee.org/document/7892194)
 
 ## Related
 
