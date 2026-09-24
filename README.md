@@ -31,7 +31,6 @@ community. This list is a heavily modified fork of the following original list:
   - [In Chinese](#in-chinese)
   - [In Russian](#in-russian)
   - [In Arabian](#in-arabian)
-- [Related](#related)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -69,6 +68,7 @@ community. This list is a heavily modified fork of the following original list:
 * [Sailfish OS Cheat Sheet](https://sailfishos.org/wiki/Sailfish_OS_Cheat_Sheet) - Collection of Development Commands
 * [Sailfish Useful Commands](https://github.com/olpeh/sailfish-useful-commands) -
   Collection of useful commands that are not so easy to remember
+* [List of Android to Sailfish OS apps](https://forum.sailfishos.org/t/list-of-android-sailfish-os-applications/) - Sailfish OS Forum post about Android app replacements  
 * [Equivalents in Sailfish](https://github.com/maidis/equivalentsinsailfish) - List that shows Android apps and their Sailfish equivalents (outdated)
 
 ## Instant Messaging, Social Media and other
@@ -139,12 +139,6 @@ community. This list is a heavily modified fork of the following original list:
 * Sailfish OS Arabic Community
   * [Telegram](https://t.me/SFOS_AR)
   * [Matrix bridge](https://matrix.to/#/#SFOS_AR:matrix.org) 
-
-## Related
-
-* [Awesome Qt](https://github.com/mikalv/awesome-qt-qml/blob/master/README.md) -
-  Curated list of awesome Qt and QML libraries, resources, projects, and shiny
-  things
 
 ## License
 
