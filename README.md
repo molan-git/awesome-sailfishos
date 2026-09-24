@@ -69,7 +69,6 @@ community. This list is a heavily modified fork of the following original list:
 * [Sailfish Useful Commands](https://github.com/olpeh/sailfish-useful-commands) -
   Collection of useful commands that are not so easy to remember
 * [List of Android to Sailfish OS apps](https://forum.sailfishos.org/t/list-of-android-sailfish-os-applications/) - Sailfish OS Forum post about Android app replacements  
-* [Equivalents in Sailfish](https://github.com/maidis/equivalentsinsailfish) - List that shows Android apps and their Sailfish equivalents (outdated)
 
 ## Instant Messaging, Social Media and other
 
