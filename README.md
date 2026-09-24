@@ -45,7 +45,7 @@ community. This list is a heavily modified fork of the following original list:
 
 ## Jolla
 * [Jolla Website](https://jolla.com/) - Official Jolla website
-* [Jolla Shop](https://commerce.jolla.com/)) - Download and/or buy official Sailfish OS devices and ports
+* [Jolla Shop](https://commerce.jolla.com/) - Download and/or buy official Sailfish OS devices and ports
 * [Jolla on Mastodon/TechHub](https://techhub.social/@jolla) - Official Mastodon account
 * [Jolla on Facebook](https://www.facebook.com/jollaofficial) - Official Facebook account
 * [Jolla on X](https://x.com/jollahq) - Official X account
