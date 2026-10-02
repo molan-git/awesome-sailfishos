@@ -65,10 +65,11 @@ community. This list is a heavily modified fork of the following original list:
 
 ## Tips and Tricks
 
+* [SailfishOS App Compatibility](https://sailfishos.app/) - Find out which Android apps work on SailfishOS and discover native alternatives
+* [List of Android to Sailfish OS apps](https://forum.sailfishos.org/t/list-of-android-sailfish-os-applications/) - Sailfish OS Forum post about Android app replacements  
 * [Sailfish OS Cheat Sheet](https://sailfishos.org/wiki/Sailfish_OS_Cheat_Sheet) - Collection of Development Commands
 * [Sailfish Useful Commands](https://github.com/olpeh/sailfish-useful-commands) -
   Collection of useful commands that are not so easy to remember
-* [List of Android to Sailfish OS apps](https://forum.sailfishos.org/t/list-of-android-sailfish-os-applications/) - Sailfish OS Forum post about Android app replacements  
 
 ## Instant Messaging, Social Media and other
 
