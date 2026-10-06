@@ -50,12 +50,22 @@ community. This list is a heavily modified fork of the following original list:
 * [Jolla on Facebook](https://www.facebook.com/jollaofficial) - Official Facebook account
 * [Jolla on X](https://x.com/jollahq) - Official X account
 
-## Software Sources / App Stores
-* [OpenRepos](https://openrepos.net/) - Community software website
-* [Storeman, an OpenRepos client app](https://github.com/storeman-developers/harbour-storeman#readme) - Sailfish OS client app for OpenRepos community software website
-* [SailfishOS:chum Web](https://sailfishos-chum.github.io/) - Community software website
-* [SailfishOS:Chum community repository](https://github.com/sailfishos-chum/main#readme) - Community software repository
-* [SailfishOS:Chum GUI app](https://github.com/sailfishos-chum/sailfishos-chum-gui#sailfishoschum-gui-application) - Sailfish OS client app for the SailfishOS:Chum community repository 
+## Software Sources
+
+* [OpenRepos](https://openrepos.net/) - Website to browse apps published on OpenRepos.net
+* [Chum Web](https://sailfishos-chum.github.io/) - Website to browse the SailfishOS:Chum community repository
+
+### Third-party Store Apps
+
+* [Storeman](https://github.com/storeman-developers/harbour-storeman#readme) - Client app for browsing and installing apps from OpenRepos.
+  Install with the [Storeman installer RPM](https://openrepos.net/content/olf/storeman-installer).
+* [Chum GUI](https://github.com/sailfishos-chum/sailfishos-chum-gui#sailfishoschum-gui-application) - Client app for browsing and installing apps from Chum.
+  Install with the [Chum GUI installer RPM](https://openrepos.net/content/olf/sailfishoschum-gui-installer).
+
+> **Installation:** Download the latest store installer `.rpm` file to your device, temporarily enable **Allow untrusted software** in Sailfish OS Settings, and open the file with a file browser to install it. Disable the setting again after installation.
+>
+> ⚠️ **Warning:** Software from third-party stores is installed at your own risk.
+
 
 ## Useful Communications Apps
 * [Communi](https://openrepos.net/content/thaodan/communi) - IRC client
@@ -63,15 +73,13 @@ community. This list is a heavily modified fork of the following original list:
 * [Fernschreiber](https://openrepos.net/content/werkwolf/fernschreiber) or [YAST Client](https://openrepos.net/content/roundedrectangle/yast-client) - Telegram client
 * [Tooter β](https://openrepos.net/content/molan/tooter-v) - Mastodon client
 
-*Other solutions and alternatives exist and may be equally suitable.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Other solutions and alternatives exist and may be equally suitable.*
 
 ## Tips and Tricks
 
 * [SailfishOS App Compatibility](https://sailfishos.app/) - Find out which Android apps work on SailfishOS and discover native alternatives
 * [List of Android to Sailfish OS apps](https://forum.sailfishos.org/t/list-of-android-sailfish-os-applications/) - Sailfish OS Forum post about Android app replacements  
 * [Sailfish OS Cheat Sheet](https://sailfishos.org/wiki/Sailfish_OS_Cheat_Sheet) - Collection of Development Commands
-* [Sailfish Useful Commands](https://github.com/olpeh/sailfish-useful-commands) -
-  Collection of useful commands that are not so easy to remember
 
 ## Instant Messaging, Social Media and other
 
