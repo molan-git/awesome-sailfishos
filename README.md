@@ -18,7 +18,8 @@ community. This list is a heavily modified fork of the following original list:
 
 - [Sailfish OS](#sailfish-os)
 - [Jolla](#jolla)
-- [Software Sources / App Stores](#software-sources--app-stores)
+- [Software Sources](#software-sources)
+  - [Third-party Store Apps & Installation](#third-party-store-apps--installation)
 - [Useful Communications Apps](#useful-communications-apps)
 - [Tips and Tricks](#tips-and-tricks)
 - [Instant Messaging, Social Media and other](#instant-messaging-social-media-and-other)
@@ -34,6 +35,7 @@ community. This list is a heavily modified fork of the following original list:
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 ## Sailfish OS
 
