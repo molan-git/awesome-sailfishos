@@ -55,7 +55,7 @@ community. This list is a heavily modified fork of the following original list:
 * [OpenRepos](https://openrepos.net/) - Website to browse apps published on OpenRepos.net
 * [Chum Web](https://sailfishos-chum.github.io/) - Website to browse the SailfishOS:Chum community repository
 
-### Third-party Store Apps
+### Third-party Store Apps & Installation
 
 * [Storeman](https://github.com/storeman-developers/harbour-storeman#readme) - Client app for browsing and installing apps from OpenRepos.
   Install with the [Storeman installer RPM](https://openrepos.net/content/olf/storeman-installer).
