@@ -59,9 +59,11 @@ community. This list is a heavily modified fork of the following original list:
 
 ## Useful Communications Apps
 * [Communi](https://openrepos.net/content/thaodan/communi) - IRC client
-* [Sailtrix](https://openrepos.net/content/hengyedev/sailtrix) - Matrix client
-* [Fernschreiber](https://openrepos.net/content/werkwolf/fernschreiber) - Telegram client
+* [Sailtrix](https://openrepos.net/content/hengyedev/sailtrix) or [xmatic](https://openrepos.net/content/jimknopfiot/xmatic) - Matrix client
+* [Fernschreiber](https://openrepos.net/content/werkwolf/fernschreiber) or [YAST Client](https://openrepos.net/content/roundedrectangle/yast-client) - Telegram client
 * [Tooter β](https://openrepos.net/content/molan/tooter-v) - Mastodon client
+
+*Other solutions and alternatives exist and may be equally suitable.*
 
 ## Tips and Tricks
 
