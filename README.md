@@ -150,7 +150,13 @@ community. This list is a heavily modified fork of the following original list:
 
 * Sailfish OS Arabic Community
   * [Telegram](https://t.me/SFOS_AR)
-  * [Matrix bridge](https://matrix.to/#/#SFOS_AR:matrix.org) 
+  * [Matrix bridge](https://matrix.to/#/#SFOS_AR:matrix.org)
+ 
+## For Developers
+
+* Tools
+  * [Sailfish icon maker](https://sfosicon.mrcyjanek.net/)
+  * [Harbour Icon Builder](https://erwanlpfr.codeberg.page/harbour-icon-builder/)
 
 ## License
 
