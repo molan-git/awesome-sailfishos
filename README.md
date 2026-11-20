@@ -72,6 +72,7 @@ community. This list is a heavily modified fork of the following original list:
 ## Useful Communications Apps
 * [Communi](https://openrepos.net/content/thaodan/communi) - IRC client
 * [Sailtrix](https://openrepos.net/content/hengyedev/sailtrix) or [xmatic](https://openrepos.net/content/jimknopfiot/xmatic) - Matrix client
+* [Piirit](https://forum.sailfishos.org/t/piirit-a-native-sailfish-os-client-for-delta-chat/33806) - Delta client
 * [Fernschreiber](https://openrepos.net/content/werkwolf/fernschreiber) or [YAST Client](https://openrepos.net/content/roundedrectangle/yast-client) - Telegram client
 * [Tooter β](https://openrepos.net/content/molan/tooter-v) - Mastodon client
 * [SFOS Forum Viewer](https://openrepos.net/content/szopin/sfos-forum-viewer) - Client to access to official Sailfish OS Forum
