@@ -32,9 +32,11 @@ community. This list is a heavily modified fork of the following original list:
   - [In Chinese](#in-chinese)
   - [In Russian](#in-russian)
   - [In Arabian](#in-arabian)
+- [For Developers](#for-developers)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 
 ## Sailfish OS
